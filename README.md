@@ -1,12 +1,16 @@
 # Yaya-OS
 
-## **关于**
+## 关于
 适配机型
 Xiaomi Redmi AX6S (经过测试)
 Xiaomi AX3200 (未经测试)
 平台: mediatek/mt7622
 版本: Open Wrt 分支: 22.03.3 内核: 5.10.161
 编译时间: 2023-03-04 1:50:45
+##  **系统截图展示**
+![](https://github.com/kiddin9/luci-theme-edge/raw/master/Screenshots/1.png)
+![](https://github.com/kiddin9/luci-theme-edge/raw/master/Screenshots/3.png)
+![](https://github.com/kiddin9/luci-theme-edge/raw/master/Screenshots/8.png)
 ## 1. **特色**
 
 + Cutting edge,openwrt官方openwrt-22.03分支版本, Kernel 5.15, 与官方最新源码同步.
