@@ -8,9 +8,9 @@ Xiaomi AX3200 (未经测试)
 版本: Open Wrt 分支: 22.03.3 内核: 5.10.161
 编译时间: 2023-03-04 1:50:45
 ##  **系统截图展示**
-![](https://github.com/mmyo456/Yaya-OS/img/Snipaste_2023-03-06_01-54-06.png)
-![](https://github.com/mmyo456/Yaya-OS/img/Snipaste_2023-03-06_01-54-30.png)
-![](https://github.com/mmyo456/Yaya-OS/img/Snipaste_2023-03-06_01-55-19.png)
+![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-54-06.png)
+![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-54-30.png)
+![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-55-19.png)
 ## 1. **特色**
 
 + Cutting edge,openwrt官方openwrt-22.03分支版本, Kernel 5.15, 与官方最新源码同步.
