@@ -2,7 +2,7 @@
 
 ## 关于
 适配机型
-Xiaomi Redmi AX6S (经过测试)<div>
+Xiaomi Redmi AX6S (经过测试)
 Xiaomi AX3200 (未经测试)<div>
 平台: mediatek/mt7622<div>
 版本: Open Wrt 分支: 22.03.3 内核: 5.10.161<div>
