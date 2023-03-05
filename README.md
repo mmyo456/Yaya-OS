@@ -28,3 +28,17 @@ Xiaomi AX3200 (未经测试)
 + 替换 Uhttpd 为 Nginx, 支持 反向代理; WebDAV等诸多玩法.
 
 + 性能,友好度,易用性,插件,以及针对国内特殊环境等的自定义优化, 开箱即用
+## Acknowledgments
+
+#### Rockchip的Kernel等部分源码来源 https://github.com/coolsnowwolf/lede
+#### ipq807x的Kernel等部分源码来源 https://github.com/Boos4721/openwrt
+#### ipq60xx的Kernel等部分源码来源 https://github.com/coolsnowwolf/openwrt-gl-ax1800
+
+- [OpenWrt](https://github.com/openwrt/openwrt)
+- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [P3TERX](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
+- [aparcar](https://github.com/openwrt/asu)
+- [unifreq](https://github.com/unifreq/openwrt_packit)
+- [Boos4721](https://github.com/Boos4721/openwrt)
+- [GitHub](https://github.com)
+- [GitHub Actions](https://github.com/features/actions)
