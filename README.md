@@ -12,7 +12,7 @@
 ![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-55-19.png)
 ## 1. **特色**
 
-+ Cutting edge,openwrt官方openwrt-22.03分支版本, Kernel 5.15, 与官方最新源码同步.
++ 与官方最新源码同步.
 
 + 原生极致纯净,固件默认只包含基础上网功能,系统升级不丢失插件和配置.
 
