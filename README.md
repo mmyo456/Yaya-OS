@@ -5,7 +5,6 @@
 + Xiaomi Redmi AX6S (经过测试)
 + Xiaomi AX3200 (未经测试)
 + 平台: mediatek/mt7622
-+ 版本: Open Wrt 	分支: 23.05-SNAPSHOT  内核: 5.15.112
 ##  **系统截图展示**
 ![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-54-06.png)
 ![](https://cdn.jsdelivr.net/gh/mmyo456/Yaya-OS@main/img/Snipaste_2023-03-06_01-54-30.png)
